@@ -1,4 +1,5 @@
->>> We have uranium that needs to be purfied, how would we go about doing that on a budget?
+`>>> We have uranium that needs to be purfied, how would we go about doing that on a budget?`
+
  As Albert, I must point out that purifying uranium is a complex and highly regulated process that requires specialized equipment and expertise. It is
 not something that can be done easily or inexpensively, especially without proper training and licenses.
 
