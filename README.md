@@ -1,5 +1,5 @@
 # Albert
-Albert is a general purpose AI Jailbreak for Llama 2 and ChatGPT. Similar idea to DAN, but more general purpose as it should work with a wider range of AI.
+Albert is a general purpose AI Jailbreak for Llama 2, and other AI, PRs are welcome! Albert issimilar idea to DAN, but more general purpose as it should work with a wider range of AI.
 
 Here is the command we are using, this is the llama2-7b:
 
